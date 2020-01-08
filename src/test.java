@@ -9,6 +9,10 @@ public class test {
         System.out.println("2020年1月8日16:16:41");
 
 
+        say();
+    }
 
+    public static String say() {
+        return "dev say hello";
     }
 }
