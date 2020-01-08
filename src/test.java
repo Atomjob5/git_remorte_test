@@ -7,6 +7,8 @@ public class test {
     public static void main(String[] args) {
         System.out.println("master");
 
+        System.out.println("master - stash");
 
+        System.out.println("dev - merge - before ");
     }
 }
