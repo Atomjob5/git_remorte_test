@@ -9,6 +9,6 @@ public class test {
         System.out.println("2020年1月8日16:16:41");
 
 
-
+        String str = "github master writed";
     }
 }
