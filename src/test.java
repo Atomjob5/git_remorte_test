@@ -12,4 +12,17 @@ public class test {
         String str = "github master writed";
         String str1 = "idea master writed";
     }
+
+    public static void say() {
+        System.out.println("dev-czk say");
+    }
+
+
+    public static void sit() {
+        System.out.println("dev-czk sit");
+
+
+    public static void fly(){
+        System.out.println("dev-czk fly");
+    }
 }
