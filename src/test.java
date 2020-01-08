@@ -16,4 +16,8 @@ public class test {
     public static void say() {
         System.out.println("dev-czk say");
     }
+    
+    public static void fly(){
+        System.out.println("dev-czk fly");
+    }
 }
