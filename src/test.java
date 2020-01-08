@@ -6,9 +6,9 @@
 public class test {
     public static void main(String[] args) {
         System.out.println("master");
+        System.out.println("2020年1月8日16:16:41");
 
-        System.out.println("master - stash");
 
-        System.out.println("dev - merge - before ");
+
     }
 }
