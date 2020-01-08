@@ -7,8 +7,6 @@ public class test {
     public static void main(String[] args) {
         System.out.println("2020年1月8日16:16:41");
 
-        System.out.println("2020年1月8日17:23:19");
-
 
     }
 }
