@@ -13,6 +13,7 @@ public class test {
     }
 
     public static String say() {
+        String str = "github";
         return "dev say hello";
     }
 }
